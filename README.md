@@ -1,6 +1,8 @@
 # Hi there, I'm Tomas Travis 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tomastravis&color=blue)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/tomaselgrande?country.x=ES&locale.x=es_ES)
+
 
 ## About Me
 
