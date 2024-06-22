@@ -24,6 +24,7 @@ I am a bilingual graduate in Mathematics from Seville University, currently purs
 - **Email**: [tomasnataliaalbanes@gmail.com](mailto:tomasnataliaalbanes@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tomas-travis-alonso-cremnitz](https://www.linkedin.com/in/tomas-travis-alonso-cremnitz)
 
+
 ## Skills
 
 - Data Science
