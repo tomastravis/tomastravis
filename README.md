@@ -24,16 +24,6 @@ I am a bilingual graduate in Mathematics from Seville University, currently purs
 - **Email**: [tomasnataliaalbanes@gmail.com](mailto:tomasnataliaalbanes@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tomas-travis-alonso-cremnitz](https://www.linkedin.com/in/tomas-travis-alonso-cremnitz)
 
-## Experience
-
-### NTT DATA Europe & Latam
-**Data Analyst Intern**  
-*February 2024 - Present*  
-- Developed and maintained APIs in the energy sector, increasing efficiency in data collection and preprocessing
-- Built machine learning models to enhance performance prediction and accuracy
-- Applied statistical methods for robust analysis of complex datasets
-- Collaborated with cross-functional teams to understand business requirements and objectives
-
 ## Skills
 
 - Data Science
