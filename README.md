@@ -1,6 +1,8 @@
 # Hi there, I'm Tomas Travis 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tomastravis&color=blue)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tomas-travis-alonso-cremnitz/)
+
 
 
 ## About Me
