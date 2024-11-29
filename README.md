@@ -5,12 +5,12 @@
 
 ## About Me
 
-I am a bilingual graduate in Mathematics from Seville University, currently pursuing a Master's degree in Data Analytics. I am passionate about data science, machine learning, and their applications in general but specially in the Life Sciences industry. I am currently working as a Data Analyst intern at NTT DATA, where I am gaining valuable experience in developing and maintaining APIs, machine learning models, and applying statistical methods to complex datasets.
+I am a bilingual graduate in Mathematics and Data Analysis Master's from Seville University, currently working as a Data Engineer. I am passionate about data science, machine learning, and their applications in general but specially in the Life Sciences industry. Currently gaining valuable experience in developing and maintaining APIs, machine learning models, and applying statistical methods to complex datasets. Also integrating services with an Angular web UI.
 
 ### 🔭 I’m currently working on
 
-- **Data Analyst Intern at NTT DATA Europe & Latam**: Developing and maintaining APIs in the energy sector, increasing efficiency in data collection and preprocessing, and building machine learning models for improved performance prediction and accuracy.
-- **Master's Degree in Data Analytics** at Universidad Loyola
+- **Data Engineer at NTT DATA Europe & Latam**: Full stack developement and machine learning maintenance in the energy sector, increasing efficiency in data collection and preprocessing for improved performance prediction and accuracy.
+- **Deep Reinforcement Learning for Autonomous Surface Vehicles Research** at Loyola University in Seville.
 
 ### 🌱 I’m currently learning
 
