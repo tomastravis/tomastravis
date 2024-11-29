@@ -7,12 +7,12 @@
 
 ## About Me
 
-I am a bilingual graduate in Mathematics and Data Analysis Master's from Seville University, currently working as a Data Engineer. I am passionate about data science, machine learning, and their applications in general but specially in the Life Sciences industry. Currently gaining valuable experience in developing and maintaining APIs, machine learning models, and applying statistical methods to complex datasets. Also integrating services with an Angular web UI.
+I am a bilingual graduate in Mathematics and Data Analysis Master's from Seville University, currently working as a Data Engineer. I am passionate about data science, machine learning, and their applications in general but specially in the Life Sciences industry. Currently gaining valuable experience in developing and maintaining APIs and machine learning models. Also integrating services with an Angular web UI.
 
 ### 🔭 I’m currently working on
 
 - **Data Engineer at NTT DATA Europe & Latam**: Full stack developement and machine learning maintenance in the energy sector, increasing efficiency in data collection and preprocessing for improved performance prediction and accuracy.
-- **Deep Reinforcement Learning for Autonomous Surface Vehicles Research** at Loyola University in Seville.
+- **Deep Reinforcement Learning for Autonomous Surface Vehicles Research** at Loyola University in Seville. An exciting project using simulation and real on-premise experiments with our own Yellowfish Autonomous Surface Vehicle. Putting research to the real test. 
 
 ### 🌱 I’m currently learning
 
